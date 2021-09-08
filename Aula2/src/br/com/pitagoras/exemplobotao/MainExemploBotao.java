@@ -1,6 +1,6 @@
 package br.com.pitagoras.exemplobotao;
+import  br.com.pitagoras.exemplobotao.view.ExemploBotao;
 
-import br.com.pitagoras.exemplobotao.view.ExemploBotao;
 
 import javax.swing.*;
 
